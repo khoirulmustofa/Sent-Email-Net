@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,7 +19,7 @@ namespace Email_Test
         bool enableSSL = true;
 
         string emailFrom = "khoirul.dev123@gmail.com";
-        string password = "GmailDev@123";
+        string password = "Jancok";
         //string emailTo = "someone@domain.com";
         //string subject = "Hello";
         //string body = "Hello, I'm just writing this to say Hi!";

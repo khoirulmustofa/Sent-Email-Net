@@ -19,7 +19,7 @@ namespace Email_Test
         bool enableSSL = true;
 
         string emailFrom = "khoirul.dev123@gmail.com";
-        string password = "Jancok";
+        string password = "IkiRahasia@123";
         //string emailTo = "someone@domain.com";
         //string subject = "Hello";
         //string body = "Hello, I'm just writing this to say Hi!";
